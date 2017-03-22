@@ -1,0 +1,8 @@
+user:
+password:
+aria2_path: aria2c
+aria2_args: -x10 -j10 -s10
+ftp_url: speedtest.tele2.net
+query: 5MB
+output: ./test_output
+interval: 0min

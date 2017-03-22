@@ -1,0 +1,8 @@
+user: <user to ftp>
+password: <password  to ftp>
+aria2_path: <path to aria2c>
+aria2_args: <paramters to aria2c>(-x10 -j10 -s10)
+ftp_url: <ftp url>(ftp://xxx.xxx)
+query: <query on ftp dir>
+output: <output path>
+interval: <run interval>(0min)

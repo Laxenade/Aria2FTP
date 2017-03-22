@@ -1,0 +1,1 @@
+java -jar Aria2P.jar -c ./config.xml
