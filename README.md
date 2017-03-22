@@ -1,6 +1,6 @@
 # Aria2FTP
 
-The program is used to download a file from a ftp server against some queries, it is done by periodically polling the server.
+The program is used to download (using aria2) a file from a ftp server against some queries, it is done by periodically polling the server.
 
 ## How to run
 
