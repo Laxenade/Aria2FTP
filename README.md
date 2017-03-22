@@ -1,6 +1,6 @@
 # Aria2FTP
 
-The program is used to download a file from ftp server against some queries by periodically polling the server.
+The program is used to download a file from a ftp server against some queries, it is done by periodically polling the server.
 
 ## How to run
 
@@ -8,6 +8,7 @@ The program is used to download a file from ftp server against some queries by p
 2. Launch the program by providing a config file, `java -jar Aria2P.jar -c ./config.xml`, alternatively use `run.bat`
 
 ## Config file
+
 ```yaml
 user: <user to ftp>
 password: <password  to ftp>
